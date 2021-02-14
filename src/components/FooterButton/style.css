@@ -1,0 +1,9 @@
+#button{
+    text-align: center;
+}
+button:hover {
+    opacity: 1;
+}
+button:active {
+  color: green;
+}

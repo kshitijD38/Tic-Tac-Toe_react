@@ -1,0 +1,7 @@
+.grid-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 310px;
+  }
+  
